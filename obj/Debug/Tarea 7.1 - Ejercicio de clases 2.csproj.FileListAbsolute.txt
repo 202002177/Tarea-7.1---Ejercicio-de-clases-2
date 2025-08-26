@@ -1,0 +1,7 @@
+C:\Users\mavila\source\repos\UMH-POO\Tarea 7.1 - Ejercicio de clases 2\Tarea 7.1 - Ejercicio de clases 2\bin\Debug\Tarea 7.1 - Ejercicio de clases 2.exe.config
+C:\Users\mavila\source\repos\UMH-POO\Tarea 7.1 - Ejercicio de clases 2\Tarea 7.1 - Ejercicio de clases 2\bin\Debug\Tarea 7.1 - Ejercicio de clases 2.exe
+C:\Users\mavila\source\repos\UMH-POO\Tarea 7.1 - Ejercicio de clases 2\Tarea 7.1 - Ejercicio de clases 2\bin\Debug\Tarea 7.1 - Ejercicio de clases 2.pdb
+C:\Users\mavila\source\repos\UMH-POO\Tarea 7.1 - Ejercicio de clases 2\Tarea 7.1 - Ejercicio de clases 2\obj\Debug\Tarea 7.1 - Ejercicio de clases 2.csproj.AssemblyReference.cache
+C:\Users\mavila\source\repos\UMH-POO\Tarea 7.1 - Ejercicio de clases 2\Tarea 7.1 - Ejercicio de clases 2\obj\Debug\Tarea 7.1 - Ejercicio de clases 2.csproj.CoreCompileInputs.cache
+C:\Users\mavila\source\repos\UMH-POO\Tarea 7.1 - Ejercicio de clases 2\Tarea 7.1 - Ejercicio de clases 2\obj\Debug\Tarea 7.1 - Ejercicio de clases 2.exe
+C:\Users\mavila\source\repos\UMH-POO\Tarea 7.1 - Ejercicio de clases 2\Tarea 7.1 - Ejercicio de clases 2\obj\Debug\Tarea 7.1 - Ejercicio de clases 2.pdb
